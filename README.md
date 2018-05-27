@@ -5,7 +5,7 @@ The WEB Crawler provides functionalities for indexing and searching news web pag
 - .actor: Actors used for single JVM process 
 - .cluster: Actors used for multiple JVM processes (cluster nodes)
 - .examples: Java console applications for actor systems
-- .model: Business model classes: indexers, searchers, pages...
+- .model: Business model classes: parsers, indexers, searchers, pages...
 
 1. Simple actor based web crawler:
 
